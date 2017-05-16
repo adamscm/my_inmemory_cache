@@ -1,0 +1,2 @@
+sudo gcc -g -o myInmemoryCache myInmemoryCache.c -lpthread
+sudo gcc -g -o test_client test_client.c -lpthread
